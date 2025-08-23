@@ -1,4 +1,3 @@
-> _"I write pictures."_
 ### Zikora | ジコラ
 CS • Lingusistics • Tech Art
 
